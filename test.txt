@@ -1,0 +1,16 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 8AC1-C9D0
+
+ Directory of C:\Users\nitub\eclipse-workspace\practiceproject
+
+11-02-2023  22:37    <DIR>          .
+10-02-2023  13:15    <DIR>          ..
+10-02-2023  13:13             7,684 .classpath
+10-02-2023  13:12               391 .project
+10-02-2023  13:12    <DIR>          .settings
+10-02-2023  13:13    <DIR>          bin
+10-02-2023  13:13    <DIR>          src
+11-02-2023  22:37                 0 test.txt
+10-02-2023  19:36                12 testdata.properties
+               4 File(s)          8,087 bytes
+               5 Dir(s)  433,469,370,368 bytes free
